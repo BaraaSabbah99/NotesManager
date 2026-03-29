@@ -5,7 +5,7 @@
 
 <main>
 
-<h2> Project that built in Django framework</h2>
+<h2> Project that built with Django framework</h2>
 <p>
 Main Functions include this project
 <ul>
