@@ -1,4 +1,4 @@
 
-<h1> Note Manager </h1>
+<h1> Notes Manager </h1>
 
 
