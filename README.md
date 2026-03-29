@@ -22,7 +22,7 @@ Main Functions include this project
     Delete Notes
   </li>
    <li>
-    each user can see its own notes Only
+    Each user can see its own notes Only
   </li>
    <li>
     Admin role that can delete any user in the system
